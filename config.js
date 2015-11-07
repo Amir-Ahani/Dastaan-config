@@ -69,7 +69,7 @@ var appConfig = {
 
 	data: {
 		apiAddress: 'http://54.212.119.216:50505',
-		vendor: 'LR Resources',
+		vendor: 'Radici',
 
 		//useCache: true,
 
